@@ -1,0 +1,26 @@
+{"categories": {
+            "Prépa 1":{
+                "index":"",
+                "categories":{
+                    "Physique":{
+                        "index":"",
+                        "categories":{
+                        },
+                        "links":{}
+                    },
+                    "Numérique":{
+                        "index":"",
+                        "categories":{},
+                        "links":{}
+                    },
+                    "Mathématiques":{
+                        "index":"",
+                        "categories":{},
+                        "links":{
+                            "Chapitre 1":"https://raw.githubusercontent.com/Astri2/CoursKatex/main/html/MathsS2-ExoInt.html"
+                        }
+                    }
+                }
+            }
+        }        
+    }
