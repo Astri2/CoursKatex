@@ -13,11 +13,13 @@
                         "categories":{},
                         "links":{}
                     },
-                    "Mathématiques":{
+                    "Mathématiques Semestre 2":{
                         "index":"",
                         "categories":{},
                         "links":{
-                            "Chapitre 1":"html/MathsS2-ExoInt.html"
+                            "ExoInt":"html/MathsS2-ExoInt.html",
+                             "IntCurvi":"html/MathsS2-IntCurvi.html",
+                             "ThmOstrogradsky":"html/MathsS2-ThmOstrogradsky.html"
                         }
                     }
                 }
