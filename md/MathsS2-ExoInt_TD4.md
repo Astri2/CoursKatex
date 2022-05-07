@@ -148,14 +148,17 @@ $$
 \begin{split}
     I&= \int^1_0 \frac{x}{2}-2+\frac{4x+2}{\pembrace{1+x}^2}dx\n
 
-    &=\frac{4x+2}{(1+x)^2} = \frac{\alpha}{1+x}+\frac{\beta}{(1+x)^2}\n
-    &= \frac{\alpha\pembrace{1+x}+\beta}{\pembrace{1+x}^2} =\frac{\alpha x + \alpha + \beta}{\pembrace{1+x}^2}\n
-    
     &\quad\embrace{
-        &\alpha=4\\
-        &\alpha+\beta=2
-    }{|}{.}
-    \quad\Rightarrow\quad\beta=-2\n
+        &\frac{4x+2}{(1+x)^2} = \frac{\alpha}{1+x}+\frac{\beta}{(1+x)^2}\n
+    
+        &\frac{\alpha\pembrace{1+x}+\beta}{\pembrace{1+x}^2} =\frac{\alpha x + \alpha + \beta}{\pembrace{1+x}^2}\n
+        
+        &\embrace{
+            &\alpha=4\\
+            &\alpha+\beta=2
+        }{\{}{.}\quad\Rightarrow\quad\beta=-2
+    }{|}{.}\n
+    
     
     I&= \int^1_0\frac{x}{2}-2+\frac{4}{1+x}-\frac{2}{\pembrace{1+x}^2}dx\n
     &= \cembrace{\frac{x^2}{4}-2x+4\ ln(1+x)+\frac{2}{1+x}}^1_0\n
