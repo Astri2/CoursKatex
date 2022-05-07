@@ -54,6 +54,12 @@ $$
     
     &V=8R^3\hspace{1cm}\iiint div\vec{F}=3*8R^3\n
     
-    &\oiint \vec{F}.\vec{ds}= \int_{-R}^R\int_{-R}^R y\ dzdx=y\ 4R^2
+    &\oiint \vec{F}.\vec{ds}=\int_{S_1}+\dots+\int{S_6}\n  
+    
+    &\text{<schema 3>}\n
+    
+    &\int_{-R}^R\int_{-R}^R R\ dzdx=4R^\ *2\ *3\quad \text{(car 2*x*3 faces)}\n
+    
+    &= 24R^3
 \end{split}
 $$
