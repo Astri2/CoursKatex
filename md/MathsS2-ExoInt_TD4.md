@@ -17,7 +17,10 @@ $$
 %     \embrace{#1}{[}{]}
 % }
 $$
-# Ex4
+<center>TD4 FDPV</center>
+
+# Ex 6
+## 4)
 $$
 
 D = \aembrace{(x,y) \in \R^2 \ |\ y \ge 0, x-y+1\ge0, x+2y-4\lt0}\n
@@ -57,7 +60,7 @@ $$
 \end{split}
 $$
 ---
-# Ex 5
+## 5)
 $$
 D = \aembrace{(x,y) \in \R^2\ |\ 0\le x\le 1, x^2\le y\le x}
 $$
@@ -83,7 +86,7 @@ $$
 \end{split}
 $$
 ---
-# Ex 6
+## 6)
 $$
 D = \aembrace{(x,y)\in \R^2\ |\ 1\le x\le 2, 0\le xy\le \frac{\pi}{2}}
 $$
@@ -108,7 +111,7 @@ $$
 $$
 
 ---
-# Ex 7
+## 7)
 $$
 D = \aembrace{(x,y) \in \R^2 \ |\ x\ge 0,\ y\ge 0,\ xy+x+y \le1 }\n
 I = \int\int f(x,y)dxdy\n
