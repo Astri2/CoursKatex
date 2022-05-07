@@ -1,0 +1,28 @@
+{"categories": {
+            "Prépa 1":{
+                "index":"",
+                "categories":{
+                    "Physique":{
+                        "index":"",
+                        "categories":{
+                        },
+                        "links":{}
+                    },
+                    "Numérique":{
+                        "index":"",
+                        "categories":{},
+                        "links":{}
+                    },
+                    "Mathématiques Semestre 2":{
+                        "index":"",
+                        "categories":{},
+                        "links":{
+                            "ExoInt":"html/MathsS2-ExoInt.html",
+                             "IntCurvi":"html/MathsS2-IntCurvi.html",
+                             "ThmOstrogradsky":"html/MathsS2-ThmOstrogradsky.html"
+                        }
+                    }
+                }
+            }
+        }        
+    }
