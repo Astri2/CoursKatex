@@ -17,10 +17,10 @@
                         "index":"",
                         "categories":{},
                         "links":{
-                            "ExoInt":"html/MathsS2-ExoInt_TD4.html",
-                             "IntCurvi":"html/MathsS2-IntCurvi.html",
-                             "ThmOstrogradsky":"html/MathsS2-ThmOstrogradsky.html",
-                             "06-05-22":"html/MathsS2-06-05-22.html"
+                            "ExoInt":"md/MathsS2-ExoInt_TD4.md",
+                             "IntCurvi":"md/MathsS2-IntCurvi.md",
+                             "ThmOstrogradsky":"md/MathsS2-ThmOstrogradsky.md",
+                             "06-05-22":"md/MathsS2-06-05-22.md"
                         }
                     }
                 }
