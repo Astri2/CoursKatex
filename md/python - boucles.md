@@ -19,9 +19,9 @@ c’est une boucle qui énumère les objets d’une liste
 formule générale : for <"variable à définir"> in <"list">
 
 ```python
-while i < 10 :
-    print(i)
-    i+=1
+liste = ["a","b","c","d"]
+for lettre in liste :
+  print(lettre)
 ```
 
 ## La fonction récursive
