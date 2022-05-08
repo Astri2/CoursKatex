@@ -10,8 +10,11 @@
                     },
                     "Numérique":{
                         "index":"",
-                        "categories":{},
-                        "links":{}
+                        "categories":{
+                        },
+                        "links":{
+                            "python - boucles":"md/python - boucles.md"
+                        }
                     },
                     "Mathématiques Semestre 2":{
                         "index":"",
