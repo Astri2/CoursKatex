@@ -46,8 +46,8 @@ $$
 \int\int f(x,y)dxdy \ \ \ |\ \ \ f(x,y)=x\n
 
 \begin{split}
-    \hspace{2cm}I &= \int^{\frac{2}{3}}_{-1}\int^{x+1}_0dydx + \int^4_{\frac{2}{3}}x\int^{2-\frac{x}{2}}_0dydx\n
-    &= \int^{\frac{2}{3}}_{-1}x[y]_0dx  + \int^4_{\frac{2}{3}}x[y]_0dx\n
+    \hspace{2cm}I &= \int^{\frac{2}{3}}_{-1}x\int^{x+1}_0dydx + \int^4_{\frac{2}{3}}x\int^{2-\frac{x}{2}}_0dydx\n
+    &= \int^{\frac{2}{3}}_{-1}x[y]_0^{x+1}dx  + \int^4_{\frac{2}{3}}x[y]_0^{x+1}dx\n
     &= \int^{\frac{2}{3}}_{-1}x(x+1) + \int^4_{\frac{2}{3}}x(2-\frac{x}{2})dx\n
     &= \cembrace{\frac{x^3}{3}+\frac{x^2}{2}}^{\frac{2}{3}}_{-1}+\cembrace{x^2-\frac{x^3}{6}}^4_{\frac{2}{3}}\n
     &= \frac{1}{3}\pembrace{\frac{2}{3}}^3+\pembrace{\frac{2}{3}}^2*\frac{1}{2}\\
