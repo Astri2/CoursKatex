@@ -31,7 +31,7 @@ c'est une fonction qui va se réappeler tant qu'une condition d'arrêt n'est pas
 ```python
 def test( numero ):
     if numero < 1:
-        return i
+        return numero
     else:
         test( numero - 1 )
 ```
