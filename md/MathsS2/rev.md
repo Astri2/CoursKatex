@@ -66,8 +66,8 @@ $$
 $$
 | s | r  | t  | q  | conclusion |
 |:-:|:--:|:--:|:--:|:----------:|
-| 0 | >0 | >0 | >0 |max local   |
-| 0 | <0 | <0 | <0 |min local   |
+| 0 | >0 | >0 | >0 |min local   |
+| 0 | <0 | <0 | <0 |max local   |
 | 0 | >0 | <0 | ?  |point selle |
 | 0 | <0 | >0 | ?  |point selle |  
 
