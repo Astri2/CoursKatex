@@ -18,7 +18,7 @@ $$
 %     \embrace{#1}{[}{]}
 % }
 % \global\newcommand{\vec}[1]{\overrightarrow{#1}}
-%\global\newcommand{\abs}[1]{\displaystyle\left\lvert {#1} \right\rvert}
+% \global\newcommand{\abs}[1]{\displaystyle\left\lvert {#1} \right\rvert}
 $$
 
 
