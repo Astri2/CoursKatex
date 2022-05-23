@@ -100,7 +100,7 @@ $$
 
 $$
 \begin{split}
-    I &= \int\int_D f(x,y)dxdy\ \ \ |\ \ \ f(x,y)=cos(x,y)\n
+    I &= \int\int_D f(x,y)dxdy\ \ \ |\ \ \ f(x,y)=cos(xy)\n
     &= \int^2_1\int^{\frac{\pi}{2x}}_0 cos(xy)dy\  dx\n
     &= \int^2_1\cembrace{\frac{1}{x}sin(xy)}^{\frac{\pi}{2x}}_0dx\n
     &= \int^2_1\frac{1}{x}\sin{\frac{\pi}{2}}\ dx\n
