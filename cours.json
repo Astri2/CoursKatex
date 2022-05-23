@@ -19,12 +19,16 @@
           "index": "",
           "categories": {},
           "links": {
-            "IntCurvi": "md/MathsS2-IntCurvi.md",
-            "ThmOstrogradsky": "md/MathsS2-ThmOstrogradsky.md",
-            "06-05-22": "md/MathsS2-06-05-22.md",
-            "MathsS2_": "md/MathsS2_.md",
-            "rev":"md/MathsS2-rev.md",
-            "MathsS2-ExoInt_TD4":"md/MathsS2-ExoInt_TD4.md"
+            "06-05-22": "md/MathsS2/06-05-22.md",
+            "Ex-Int-Impropres":"md/MathsS2/Ex-Int-Impropres.md",
+            "IntCurvi": "md/MathsS2/IntCurvi.md",
+            "ExoInt_TD4":"md/MathsS2/ExoInt_TD4.md",
+            "Int-Impropres":"md/MathsS2/Int-Impropres.md",
+            "MathsS2_": "md/MathsS2/MathsS2_.md",
+            "onrefaitlecoursapreslecours":"md/onrefaitlecoursapreslecours.md",
+            "rev":"md/MathsS2/rev.md",
+            "Suites et Series numeriques":"md/MathsS2/Suites_et_Series_numetiques.md",
+            "ThmOstrogradsky": "md/MathsS2/ThmOstrogradsky.md"
           }
         }
       }
