@@ -21,7 +21,7 @@ ces fonctions seront nécessaires pour le bon déroulé de votre programme et ne
 
 ```python
 def colored(text,color):
-	colors = {"jaune":"43","bleu":"44","rouge":"41","vert":"42"}
+	colors = {"jaune":"43","bleu":"44","rouge":"41","vert":"42","blanc":"47"}
 	return '\x1b[6;30;'+ colors[color] +'m' + text + '\x1b[0m'
 
 def carte(text,color):
