@@ -1,4 +1,4 @@
-#Projet d'entrainement pour la rentrée : Jeu du Uno en UDP
+# Projet d'entrainement pour la rentrée : Jeu du Uno en UDP
 
 Le but de cette exercice est de récreer un Uno basique en réseau que vous pourrez parfaire si vous le souhaitez.
 
