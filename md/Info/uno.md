@@ -10,10 +10,10 @@ Le but de cette exercice est de récreer un Uno basique en réseau que vous pour
 - un tableau des scores en haut avec les noms des joueurs et leurs cartes restantes
 - quand on doit jouer, il faudra entrain un numéro qui sera celui de la barre des cartes
 
-** Bonus ** 
+## Bonus
+
 - afficher en blanc le joueur entrain de jouer
 - ajouter les cartes +2, +4, ↔, Ø, multicolor
-
 
 ## Les fonctions données
 
